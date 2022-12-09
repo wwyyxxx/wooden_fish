@@ -1,6 +1,6 @@
 # wooden_fish
 
-一个电子木鱼Flutter项目
+一个电子木鱼Flutter项目  
 A Wooden Fish Flutter project.
 
 ## Getting Started
